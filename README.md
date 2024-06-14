@@ -1,1 +1,1 @@
-# Follow Herman to Learn (FHTR): Python for Beginers
+# Follow Herman to Learn (FHTL): Python for Beginers
