@@ -1,9 +1,13 @@
 ##############
 # this project
 ##############
-test_outfiles/
-docs/html/
-docs/doctrees/
+Slides/*.aux
+Slides/*.log
+Slides/*.nav
+Slides/*.snm
+Slides/*.toc
+Slides/*.vrb
+Slides/main.pdf
 
 ##############
 # common project
